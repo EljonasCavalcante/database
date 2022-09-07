@@ -1,7 +1,7 @@
 # Database
 
 # Índice
-- [Visão Geral](#-introducao)
+- [Introdução](#introducao)
     - [SGBD - Sistema gerencial de banco de dados](#sgbd-sistema-gerencial-de-banco-de-dados)
     - [MER - Modelo Entidade Relacionamento](#mer-modelo-entidade-relacionamento)
     - [DER - Diagrama Entidade Relacionamento](#der-diagrama-entidade-relacionamento)
