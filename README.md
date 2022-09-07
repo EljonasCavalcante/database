@@ -1,10 +1,10 @@
 # Database
 
 # Índice
-- [Visão Geral](#-Introdução)
-    - [SGBD - Sistema gerencial de banco de dados](#SGBD-Sistema-gerencial-de-banco-de-dados)
-    - [MER - Modelo Entidade Relacionamento](#MER-Modelo-Entidade-Relacionamento)
-    - [DER - Diagrama Entidade Relacionamento](#DER-Diagrama-Entidade-Relacionamento)
+- [Visão Geral](#-introducao)
+    - [SGBD - Sistema gerencial de banco de dados](#sgbd-sistema-gerencial-de-banco-de-dados)
+    - [MER - Modelo Entidade Relacionamento](#mer-modelo-entidade-relacionamento)
+    - [DER - Diagrama Entidade Relacionamento](#der-diagrama-entidade-relacionamento)
 
 ## Introdução
 > A modelagem de dados é a primeira etapa de um projeto do banco de dados. É um processo de criação de um modelo de dados para que o software em questão guarde dados em um banco de dados. Ao usar modelos de dados, as partes interessadas, como pessoas analista de dados, especialista em BI e engenheira de dados podem decidir como os dados serão usados ao projetar um banco de dados ou data warehouses.
