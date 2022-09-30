@@ -28,7 +28,5 @@
  - Entidade Forte
     - Existencia independentemente de outra entidade
  - Entediade Fraca
-    - Depende da existência de outra entidade
-
-     
+    - Depende da existência de outra entidade    
 
