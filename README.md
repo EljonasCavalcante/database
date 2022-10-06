@@ -22,8 +22,7 @@
 
     A representação da entidade vai ser feita através de um retângulo
     
-> Entidade é um objeto único no mundo real (pode ser Abstrata ou Concreta) exemplo: Cliente de um empresa, Carros que São vendidos, Departamento de Vendas.
- 
+> Entidade é um objeto único no mundo real (pode ser Abstrata ou Concreta) exemplo: Cliente de um empresa, Carros que São vendidos, Departamento de Vendas. 
  - Entidade Forte
     - Existencia independentemente de outra entidade
  - Entediade Fraca
